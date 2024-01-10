@@ -5,11 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tejaschaudhari457" alt="tejaschaudhari457" /></a> </p>
 
+- 📫 How to reach me **tejaschaudhari457@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/https://codepen.io/tejas-chaudhari-the-solid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/tejas-chaudhari-the-solid" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/linkedin.com/in/tejas-chaudhari-98448217a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/tejas-chaudhari-98448217a" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/13409618/tejas-chaudhari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/13409618/tejas-chaudhari" height="30" width="40" /></a>
+<a href="https://kaggle.com/tejas vilas chaudhari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="tejas vilas chaudhari" height="30" width="40" /></a>
 <a href="https://instagram.com/tejaschaudhari__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tejaschaudhari__" height="30" width="40" /></a>
 </p>
 
