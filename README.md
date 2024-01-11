@@ -25,8 +25,8 @@
 <h2 align="center">knowledge About</h2>
 <br/>
 <div align="center">
-<img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,git" />
-<img src="https://skillicons.dev/icons?i=nodejs,python,javascript,express,redux,mongodb,c,mysql," /><br>
+<img src="https://skillicons.dev/icons?i=vscode,html,css,bootstrap,github,figma,git" />
+<img src="https://skillicons.dev/icons?i=nodejs,react,javascript,express,redux,mongodb,c,mysql,python" /><br>
 </div>
 </p>
 <hr>
