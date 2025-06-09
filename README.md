@@ -21,7 +21,7 @@
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=tejaschaudhari457" alt="tejaschaudhari457" style="border: 1px solid #ccc; padding: 5px; border-radius: 5px;" />
+    <img src="https://github-profile-trophy.vercel.app/?username=tejaschaudhari457" alt="tejaschaudhari457" />
   </a>
 </p>
 
@@ -54,20 +54,20 @@
 <hr>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tejaschaudhari457&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="border: 1px solid #ccc; border-radius: 5px; padding: 10px;" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tejaschaudhari457&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
 <p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tejaschaudhari457&show_icons=true&locale=en" alt="GitHub Stats" style="border: 1px solid #ccc; border-radius: 5px; padding: 10px;" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tejaschaudhari457&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tejaschaudhari457" alt="GitHub Streak" style="border: 1px solid #ccc; border-radius: 5px; padding: 10px;" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tejaschaudhari457" alt="GitHub Streak" />
 </p>
 
 <hr/>
 
 <div align="center">
-  <b>🐍 My Contributions</b><br><br>
+  <b>🐍 My Contributions Snake Game</b><br><br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/tejaschaudhari457/tejaschaudhari457/output/github-contribution-grid-snake.svg" />
 </div>
