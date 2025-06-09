@@ -44,6 +44,21 @@
 </p>
 
 <hr>
+<!-- Total Contributions and GitHub Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tejaschaudhari457&show_icons=true&theme=default&hide_title=false" alt="GitHub Stats" />
+</p>
+
+<!-- GitHub Streak: Current and longest streak -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tejaschaudhari457&theme=default" alt="GitHub Streak" />
+</p>
+
+<!-- Top Languages -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejaschaudhari457&layout=compact&theme=default" alt="Top Languages" />
+</p>
+
 
 <h2 align="center">⚙️ Knowledge About</h2>
 <div align="center">
