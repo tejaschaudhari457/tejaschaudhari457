@@ -1,3 +1,15 @@
+<html>
+<head>
+<style>
+    body {
+        border: 5px solid black;
+        margin: 0;
+        padding: 10px;
+    }
+</style>
+</head>
+<body>
+
 <h1 align="center">
     <img
         src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+%F0%9F%91%8B;+I'm+Tejas+Chaudhari">
@@ -63,3 +75,6 @@
 </p>
 
 <hr>
+
+</body>
+</html>
